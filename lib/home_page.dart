@@ -45,6 +45,13 @@ class _HomePageState extends State<HomePage> {
                 child: Image.asset('images/dice5.png'),
               ),
             ),
+            Expanded(
+              child: SizedBox(
+                height: 190,
+                width: 190,
+                child: Image.asset('images/dice5.png'),
+              ),
+            ),
           ],
         ),
       ),
